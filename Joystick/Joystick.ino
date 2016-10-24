@@ -13,14 +13,18 @@ void setup() {
 
 void loop() {
   // put your main code here, to run repeatedly:
+
+  //Leemos las señales del eje X e Y
   x = analogRead(Eje_X);
   y = analogRead(Eje_Y);
-  Serial.print("X = ");
-  Serial.print(x);
-  Serial.print(" Y = ");
-  Serial.println(y);
-  if(x < 400)
-    angulo = angulo - 3;
-  else if(x > 600)
-    angulo = angulo + 3;
+
+  //Mostramos la cardinalidad del joystick
+  if(x<400)
+    Serial.println("Oeste");
+  else if(x>600)
+    Serial.println("Este");
+  if(y<400)
+    Serial.println("Sur");
+  else if(y>600)
+    Serial.println("Norte");
 }

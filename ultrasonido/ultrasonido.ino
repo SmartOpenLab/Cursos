@@ -10,10 +10,35 @@ void setup() {
 }
  
 void loop() {
+  //obtención de la posición del objeto 
   int cm = ping(TriggerPin, EchoPin);
-  Serial.print("Distancia: ");
-  Serial.print(cm);
-  Serial.println(" cm");
+  
+  //Distancia alejada
+  if(cm > 25){
+    digitalWrite(LedPin,HIGH);
+    delay(10);
+    digitalWrite(LedPin,LOW);
+    delay(10);
+    digitalWrite(LedPin,HIGH);
+    delay(10);
+    digitalWrite(LedPin,LOW);
+    delay(10);
+
+  }
+  //Distancia intermedia
+  else if(cm > 10 && cm < 25){
+    digitalWrite(LedPin,HIGH);
+    delay(5);
+    digitalWrite(LedPin,LOW);
+    delay(5);
+    digitalWrite(LedPin,HIGH);
+    delay(5);
+    digitalWrite(LedPin,LOW);
+    delay(5);
+  }
+  else{
+    digitalWrite(LedPin,HIGH);
+  }
   delay(100);
 }
  
