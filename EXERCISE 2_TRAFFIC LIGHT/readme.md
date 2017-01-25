@@ -17,7 +17,8 @@ Una vez realizado correctamente el ejercicio anterior, no debe resultarte nada d
 
 El esquema a seguir para este ejercicio es el que se muestra en el siguiente archivo:
 
-VER: ESQUEMA2_SEMAFORO.jpg
+VER: ![Alt text](EXERCISE 2_TRAFFIC LIGHT/ESQUEMA2_SEMAFORO.jpg?raw=true "ESQUEMA2_SEMAFORO")
+
 
 
 

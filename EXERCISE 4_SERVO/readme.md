@@ -4,25 +4,32 @@
 ###### MARÍA SALGUERO GALLEGO
 ### SMART OPEN LAB (SOL) EPCC (UEx)  
 ---
-##### EJERCICIO 3: JOYSTICK
+##### EJERCICIO 4: SERVOMOTOR
 
-En este montaje vamos a aprender a usar los pines analógicos de Arduino. Esta señal analógica puede variar entre –Vcc y + Vcc, en nuestro caso desde 0v a 5v. 
+Con el montaje de este circuito vamos a aprender a enviar pulsos a un servomotor utilizando para ello una biblioteca que nos simplifica el uso y manejo de los aparatos, estas bibliotecas pueden ser usadas para multitud de dispositivos, en nuestro caso echaremos mano de la biblioteca <Servo.h>.
 
-El dispositivo que vamos a manejar tiene internamente dos potenciómetros que varían el voltaje de salida en función del giro de este, es decir, tendremos un valor entre 0 y 5 voltios, el cual transformaremos mediante un mapeado con un valor entre 0 y 1023.
+Un servomotor es un motor de corriente continua que incorpora un potenciómetro que le permite controlar la velocidad. Para controlar este potenciómetro se envían pulsos cada 20ms, o lo que es lo mismo a una frecuencia de 50Hz, la anchura del pulso codifica el ángulo de giro, es decir lo que se conoce como PWM (Pulse Width modulation), o codificación por ancho de pulso. Dependiendo del modelo del servomotor esta anchura varía, pero suele estar en el intervalo entre 0.5 y 2.5ms (consultar el datasheet del servo). 
 
-Para este montaje necesitamos los siguientes componentes:
+Para no tener la tarea de pelearnos con los pulsos usaremos los métodos proporcionados por la biblioteca Servo.h:
 
-- 1 JOYSTICK
-- 1 PLACA ARDUINO (uno)
-- 1 PROTOBOARD
-- 1 CABLE USB
-- CABLES MACHO-MACHO
+* Attach(pin): Indica el pin al que está conectado el servo.
+* Detach(): Desconecta el servo del control del arduino.
+* Attached(): Comprueba si el servo está conectado a un pin.
+* Write(angulo): Indica al servo a que ángulo, en grados, quiere moverse.
+* Read(): Devuelve el ángulo en el que se encuentra el servo.
 
-El esquema a seguir es el que se muestra en el siguiente archivo:
+Para el montaje vamos a necesitar los siguientes componentes electrónicos:
+- 1x Placa Arduino Uno
+- 1x Cable USB
+- 3x Cable Macho-Macho
 
-VER: ESQUEMA3_JOYSTICK.jpg
+Para este montaje vamos a diseñar un pequeño sistema que varíe el ángulo del servo comenzando por el ángulo 0, e incrementándolo cada segundo 10 grados hasta llegar a 180 grados, posteriormente volverá al ángulo 90 durante 2 segundos, y por último se pondrá a 45 grados e inmediatamente después a 135 grados.
+ 
+Siguiendo el esquema del siguiente archivo, vamos a tener una alimentación de 5 voltios, una conexión de masa, y una conexión a un pin PWM, conectados a los mismos del servo:
+   
+VER: ![Alt text](EXERCISE 4_SERVO/ESQUEMA4_SERVOMOTOR.jpg?raw=true "ESQUEMA4_SERVO")
 
-Para este montaje vamos a diseñar un pequeño sistema que nos muestre hacia qué posición está accionado el joystick (norte, sur, este y oeste), en función de los valores que nos lleguen por los pines analógicos
+
 
 
 

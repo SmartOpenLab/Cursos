@@ -24,4 +24,4 @@ Son diodos en los que al pasar los electrones de la banda de conducción a la ba
 Una vez aclarada esta característica especial, vamos a realizar el montaje del circuito siguiendo el esquema que se muestra en el archivo con el siguiente nombre:
 
 
-VER: ESQUEMA1_LED(conPin).jpg
+VER: ![Alt text](EXERCISE 1_LED/ESQUEMA1_LED.jpg?raw=true "ESQUEMA1_LED") 
