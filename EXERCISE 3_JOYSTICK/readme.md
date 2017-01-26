@@ -18,9 +18,9 @@ Para este montaje necesitamos los siguientes componentes:
 - 1 CABLE USB
 - CABLES MACHO-MACHO
 
-El esquema a seguir es el que se muestra en el siguiente archivo:
+El esquema a seguir es el que se muestra aqui:
 
-VER: ![Alt text](EXERCISE 3_JOYSTICK/ESQUEMA3_JOYSTICK.jpg?raw=true "ESQUEMA3_JOYSTICK")
+![Alt text](ESQUEMA3_JOYSTICK.jpg?raw=true "ESQUEMA3_JOYSTICK")
 
 Para este montaje vamos a diseñar un pequeño sistema que nos muestre hacia qué posición está accionado el joystick (norte, sur, este y oeste), en función de los valores que nos lleguen por los pines analógicos
 

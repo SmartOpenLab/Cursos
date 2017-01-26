@@ -25,9 +25,9 @@ Para el montaje vamos a necesitar los siguientes componentes electrónicos:
 
 Para este montaje vamos a diseñar un pequeño sistema que varíe el ángulo del servo comenzando por el ángulo 0, e incrementándolo cada segundo 10 grados hasta llegar a 180 grados, posteriormente volverá al ángulo 90 durante 2 segundos, y por último se pondrá a 45 grados e inmediatamente después a 135 grados.
  
-Siguiendo el esquema del siguiente archivo, vamos a tener una alimentación de 5 voltios, una conexión de masa, y una conexión a un pin PWM, conectados a los mismos del servo:
+Siguiendo el siguiente esquema, vamos a tener una alimentación de 5 voltios, una conexión de masa, y una conexión a un pin PWM, conectados a los mismos del servo:
    
-VER: ![Alt text](EXERCISE 4_SERVO/ESQUEMA4_SERVOMOTOR.jpg?raw=true "ESQUEMA4_SERVO")
+![Alt text](ESQUEMA4_SERVOMOTOR.jpg?raw=true "ESQUEMA4_SERVO")
 
 
 

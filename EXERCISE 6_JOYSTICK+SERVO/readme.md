@@ -17,7 +17,7 @@ Para el montaje vamos a necesitar los siguientes componentes electrónicos:
 
 Para este montaje vamos a diseñar un pequeño sistema que mueva el servo en función del movimiento horizontal del Joystick a izquierda y derecha, además el movimiento vertical del joystick, será traducido en el número de grados que se puede mover el servo cada vez, mostrando el ángulo actual y la velocidad establecida.
 
-El esquema a seguir para el montaje del circuito es el que se encuentra en el siguiente archivo:
+El esquema a seguir para el montaje del circuito es el siguiente:
 
-VER: ![Alt text](EXERCISE 6_JOYSTICK+SERVO/ESQUEMA6_JOYSTICK+SERVOMOTOR.jpg?raw=true "ESQUEMA6_JOYSTICK+SERVO") 
+![Alt text](ESQUEMA6_JOYSTICK+SERVOMOTOR.jpg?raw=true "ESQUEMA6_JOYSTICK+SERVO") 
 

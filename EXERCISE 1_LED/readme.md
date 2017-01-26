@@ -21,7 +21,7 @@ Para el montaje necesitamos los siguientes componentes electrónicos:
 #### LED: 
 Son diodos en los que al pasar los electrones de la banda de conducción a la banda de valencia pierden energía emitiendo luz, cosa que no sucede al contrario. Posee dos patillas llamadas ánodo (positivo, más larga) y cátodo (negativo, más corta), las cuales corresponden con la banda de conducción y la banda de valencia respectivamente.
 
-Una vez aclarada esta característica especial, vamos a realizar el montaje del circuito siguiendo el esquema que se muestra en el archivo con el siguiente nombre:
+Una vez aclarada esta característica especial, vamos a realizar el montaje del circuito siguiendo el esquema que se muestra a continuacion:
 
 
-VER: ![Alt text](EXERCISE 1_LED/ESQUEMA1_LED.jpg?raw=true "ESQUEMA1_LED") 
+![Alt text](ESQUEMA1_LED.jpg?raw=true "ESQUEMA1_LED") 

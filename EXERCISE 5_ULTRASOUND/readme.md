@@ -22,4 +22,4 @@ Para el montaje vamos a necesitar los siguientes componentes electrónicos:
 
 Para este montaje vamos a diseñar un pequeño sistema que calcule la distancia desde el sensor a un objeto, además si el objeto se encuentra cerca hará parpadear el led interno del arduino, mientras que si su posición es muy lejana el led estará encendido. Seguiremos el siguiente esquema:
 
-VER: ![Alt text](EXERCISE 5_ULTRASOUND/ESQUEMA5_ULTRASONIDOS.jpg?raw=true "ESQUEMA5_ULTRASOUND")
+![Alt text](ESQUEMA5_ULTRASONIDOS.jpg?raw=true "ESQUEMA5_ULTRASOUND")
