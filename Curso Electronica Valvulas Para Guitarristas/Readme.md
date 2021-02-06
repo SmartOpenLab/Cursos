@@ -7,4 +7,4 @@ Curso de Introducción a la Electrónica de Válvulas de Vacío para Guitarrista
   * Precauciones de seguridad
   * ¡Manos a la obra!
 
-Impartido en una sola sesión de una tarde, con tiempo para prácticas de reparación y mantenimiento de amplificadores después.
+Impartido en un solo día, incluyendo prácticas de reparación y mantenimiento de amplificadores clásicos.
