@@ -14,4 +14,4 @@ Ejemplos de Smart Open Lab, en la Escuela Politécnica de Cáceres.**
 
 - Casos de éxito en Smart Open Lab
 
-Ponentes: Antonio Gordillo Guerrero (anto@unex.es) y Mario Figueira Torres (marioft@unex.es)
+**Ponentes:** Antonio Gordillo Guerrero (anto@unex.es) y Mario Figueira Torres (marioft@unex.es)
