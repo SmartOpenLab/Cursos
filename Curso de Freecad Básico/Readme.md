@@ -1,8 +1,7 @@
 
 **Curso abierto de Freecad Básico. Part design, Sketcher and Dynamic Data.**
 
-Impartido en Smart Open Lab vía zoom. 
-https://www.smartopenlab.com/producto/curso-freecad-modalidad-online/
+Impartido en Smart Open Lab vía zoom. [Enlace al curso.](https://www.smartopenlab.com/producto/curso-freecad-modalidad-online/)
 
 Programa del curso:
 
@@ -22,4 +21,6 @@ Programa del curso:
 
 – Exportar en formato .stl o .dxf.
 
-Puedes ver el video completo en su [enlace a youtube](https://www.youtube.com/watch?v=vjHiFGpD-gw).
+Puedes ver el video completo en su [enlace a youtube](https://www.youtube.com/watch?v=vjHiFGpD-gw).r
+
+Puedes descargar los ficheros de ejemplo mśa arriba.
