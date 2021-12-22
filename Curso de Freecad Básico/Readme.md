@@ -3,7 +3,7 @@
 
 Impartido en Smart Open Lab vía zoom. [Enlace al curso.](https://www.smartopenlab.com/producto/curso-freecad-modalidad-online/)
 
-Curso de arranque con el programa de diseño 2D y 3D [Freecad](www.freecad.org). Maravilloso programa y maravillosa comunidad de desarrollo.
+Curso de arranque con el programa de diseño 2D y 3D [Freecad](www.freecadweb.org). Maravilloso programa y maravillosa comunidad de desarrollo.
 
 Programa del curso:
 
