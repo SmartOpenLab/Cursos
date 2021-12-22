@@ -21,6 +21,6 @@ Programa del curso:
 
 – Exportar en formato .stl o .dxf.
 
-Puedes ver el video completo en su [enlace a youtube](https://www.youtube.com/watch?v=vjHiFGpD-gw).r
+Puedes ver el video completo en su [enlace a youtube](https://www.youtube.com/watch?v=vjHiFGpD-gw).
 
-Puedes descargar los ficheros de ejemplo mśa arriba.
+Puedes descargar los ficheros de ejemplo más arriba.
