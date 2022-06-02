@@ -1,0 +1,21 @@
+"Source:","/miscosas/ownCloud/DisenoElectronico/KiCad/CursoKicad_CircularFab2022_1/CursoKicad_CircularFab2022_1.kicad_sch"
+"Date:","mié 01 jun 2022 17:50:00"
+"Tool:","Eeschema 6.0.4-6f826c9f35~116~ubuntu20.04.1"
+"Generator:","/usr/share/kicad/plugins/bom_csv_grouped_by_value.py"
+"Component Count:","3"
+
+"Individual Components:"
+
+"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet"
+"","","BT1","3V3","Device:Battery_Cell","Battery:BatteryHolder_Keystone_1058_1x2032","~"
+"","","D1","rojo","Device:LED","LED_THT:LED_D5.0mm","~"
+"","","R1","1k","Device:R","Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal","~"
+
+
+
+"Collated Components:"
+
+"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet"
+"1","1","BT1","3V3","Device:Battery_Cell","Battery:BatteryHolder_Keystone_1058_1x2032","~"
+"2","1","D1","rojo","Device:LED","LED_THT:LED_D5.0mm","~"
+"3","1","R1","1k","Device:R","Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal","~"
