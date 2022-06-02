@@ -1,0 +1,10 @@
+1
+9
+.tran 1u 100m{return}{return}
+2
+1
+in
+V
+1
+out
+V
