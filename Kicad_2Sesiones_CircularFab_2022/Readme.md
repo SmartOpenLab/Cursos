@@ -1,4 +1,4 @@
-Curso de diseño electrónico con Kicad impartido desde Smart Open Lab.
+Curso de diseño electrónico con Kicad
 =======
 
 Aprende Kicad en dos sesiones online: del esquema a la PCB.
@@ -16,8 +16,8 @@ Contenidos
 * Iniciando un proyecto.
   * El editor de esquemas.
   * El editor de PCB.
-  * El editor de Símbolos
-  * El editor de Huellas
+  * El editor de Símbolos.
+  * El editor de Huellas.
 
 **Segunda sesión:** _Kicad intermedio_
 
@@ -25,16 +25,16 @@ Contenidos
 * Añadiendo pads y agujeros.
 * Añadiendo imágenes a la placa.
 * Exportando modelos 3D a Freecad.
-* Subiendo proyectos a webs de fabricantes (Aisler)
+* Subiendo proyectos a webs de fabricantes (Aisler).
 * Simulaciones de circuitos con Spice (link y link).
 
 **Materiales incluídos:**
 * Presentación del curso (breve).
 * Enlaces a videos de youtube:
-  * [Primera Sesión](https://www.youtube.com/watch?v=K_PexNjK7Dc&t=83s)
-  * [Segunda Sesión](https://www.youtube.com/watch?v=kZ3RvHSpxto)
+  * [Primera Sesión](https://www.youtube.com/watch?v=K_PexNjK7Dc&t=83s).
+  * [Segunda Sesión](https://www.youtube.com/watch?v=kZ3RvHSpxto).
 * Ficheros de diseño de los circuitos de cada sesión.
-* Modelo de SPICE del transistor BC546
+* Modelo de SPICE del transistor BC546.
 
 **Profesor:**
 
@@ -42,4 +42,4 @@ Contenidos
 
 Departamento de Ingeniería Eléctrica Electrónica y Automática.
 
-Universidad de Extremadura. España.
+Escuela Politécnica. Universidad de Extremadura. España.
