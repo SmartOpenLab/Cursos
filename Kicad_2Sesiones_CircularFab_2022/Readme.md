@@ -10,7 +10,7 @@ Contenidos
 
 **Primera sesión:**
 
-**Arrancando con Kicad:**
+Arrancando con Kicad:
 * ¿Qué es diseño electrónico? Flujo de desarrollo de diseño.
 * ¿Qué ofrece Kicad?
 * ¡Manos a la obra!
@@ -22,8 +22,7 @@ Contenidos
 
 **Segunda sesión:**
 
-**Kicad intermedio:**
-
+Kicad intermedio:
 * Campos extras en componentes.
 * Añadiendo pads y agujeros.
 * Añadiendo imágenes a la placa.
