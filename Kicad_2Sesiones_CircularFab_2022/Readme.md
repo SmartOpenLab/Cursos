@@ -8,9 +8,8 @@ Impartidos desde el fablab [Smart Open Lab](www.smartopenlab.com), dentro del ci
 Contenidos
 ------------
 
-**Primera sesión:**
+**Primera sesión:** _Arrancando con Kicad_
 
-_Arrancando con Kicad:_
 * ¿Qué es diseño electrónico? Flujo de desarrollo de diseño.
 * ¿Qué ofrece Kicad?
 * ¡Manos a la obra!
@@ -20,9 +19,8 @@ _Arrancando con Kicad:_
   * El editor de Símbolos
   * El editor de Huellas
 
-**Segunda sesión:**
+**Segunda sesión:** _Kicad intermedio_
 
-_Kicad intermedio:_
 * Campos extras en componentes.
 * Añadiendo pads y agujeros.
 * Añadiendo imágenes a la placa.
