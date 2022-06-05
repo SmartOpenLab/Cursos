@@ -1,29 +1,36 @@
 Curso de diseño electrónico con Kicad impartido desde Smart Open Lab.
+=======
 
+Aprende Kicad en dos sesiones online: del esquema a la PCB.
 
-Primera sesión:
+Impartidos desde [Smart Open Lab] (www.smartopenlab.com), dentro del ciclo de cursos de 2022 para la dinamización de la [Red Circular Fab](https://circularfab.es/).
 
-Arrancando con Kicad
-¿Qué es diseño electrónico? Flujo de desarrollo de diseño.
-¿Qué ofrece Kicad?
-¡Manos a la obra!
-Iniciando un proyecto.
-El editor de esquemas.
-El editor de PCB.
-El editor de Símbolos
-El editor de Huellas
+Contenidos
+------------
 
-Segunda sesión:
+**Primera sesión:**
 
-Kicad intermedio.
-Campos extras en componentes.
-Añadiendo pads y agujeros.
-Añadiendo imágenes a la placa.
-Exportando modelos 3D a Freecad.
-Subiendo proyectos a webs de fabricantes (Aisler)
-Simulaciones de circuitos con Spice (link y link).
+Arrancando con Kicad:
+* ¿Qué es diseño electrónico? Flujo de desarrollo de diseño.
+* ¿Qué ofrece Kicad?
+* ¡Manos a la obra!
+* Iniciando un proyecto.
+  * El editor de esquemas.
+  * El editor de PCB.
+  * El editor de Símbolos
+  * El editor de Huellas
 
-Profesor:
-Antonio Gordillo Guerrero (anto@unex.es)
+**Segunda sesión:**
+
+Kicad intermedio:
+* Campos extras en componentes.
+* Añadiendo pads y agujeros.
+* Añadiendo imágenes a la placa.
+* Exportando modelos 3D a Freecad.
+* Subiendo proyectos a webs de fabricantes (Aisler)
+* Simulaciones de circuitos con Spice (link y link).
+
+**Profesor:**
+[Antonio Gordillo Guerrero ](https://www.linkedin.com/in/antonio-gordillo-guerrero-8b820b88/?originalSubdomain=es) (anto@unex.es)
 Dpto. Ingeniería Eléctrica Electrónica y Automática.
 Universidad de Extremadura. España.
