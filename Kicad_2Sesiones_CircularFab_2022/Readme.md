@@ -30,6 +30,14 @@ Kicad intermedio:
 * Subiendo proyectos a webs de fabricantes (Aisler)
 * Simulaciones de circuitos con Spice (link y link).
 
+**Materiales incluídos:**
+* Presentación del curso (breve).
+* Videos de youtube:
+ * [Primera Sesión](https://www.youtube.com/watch?v=K_PexNjK7Dc&t=83s)
+ * [Segunda Sesión](https://www.youtube.com/watch?v=kZ3RvHSpxto)
+* Ficheros de diseño de los circuitos de cada sesión.
+* Modelo de SPICE del transistor BC546
+
 **Profesor:**
 
 [Antonio Gordillo Guerrero ](https://www.linkedin.com/in/antonio-gordillo-guerrero-8b820b88/?originalSubdomain=es) (anto@unex.es)
