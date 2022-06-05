@@ -42,4 +42,4 @@ Contenidos
 
 Departamento de Ingeniería Eléctrica Electrónica y Automática.
 
-[Escuela Politécnica](https://www.unex.es/conoce-la-uex/centros/epcc). [Universidad de Extremadura](https://www.unex.es). España.
+[Escuela Politécnica](https://www.unex.es/conoce-la-uex/centros/epcc), [Universidad de Extremadura](https://www.unex.es). España.
