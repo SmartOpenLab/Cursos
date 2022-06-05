@@ -33,8 +33,8 @@ Kicad intermedio:
 **Materiales incluídos:**
 * Presentación del curso (breve).
 * Enlaces a videos de youtube:
- * [Primera Sesión](https://www.youtube.com/watch?v=K_PexNjK7Dc&t=83s)
- * [Segunda Sesión](https://www.youtube.com/watch?v=kZ3RvHSpxto)
+  * [Primera Sesión](https://www.youtube.com/watch?v=K_PexNjK7Dc&t=83s)
+  * [Segunda Sesión](https://www.youtube.com/watch?v=kZ3RvHSpxto)
 * Ficheros de diseño de los circuitos de cada sesión.
 * Modelo de SPICE del transistor BC546
 
