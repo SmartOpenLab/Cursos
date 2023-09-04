@@ -22,7 +22,7 @@ Finally we describe how a regional company, La Hormiga Verde, in Spain, has base
 
 The reflections collected here are the result of work within a public higher education and research institution, the University of Extremadura, in Spain, which allows us to be in contact with very varied advances and experts; we are globally active and collaborate with dozens of companies and research groups. We believe that our vision can be extrapolated to many other places. It is a daily experience to discover how state-of-the-art resources from institutions and companies are barely used and, despite this, fiercely protected, causing a clear waste of resources. This motivated us to promote from 2014 a development community, Smart Open Lab (SOL), which later became a fablab, based on shared resources and open knowledge. Uniting different departments, research groups, companies, and people, we have been doing a job of redefining and reusing resources that motivates the writing of this article. In particular, we will focus on the problem of electronic waste and its possible revaluation, both economically and academically.
 
-Findings – What was found in the course of the work? This will refer to analysis, discussion, or results.
+### Findings
 
 We discovered that fablabs, as spaces for the design and development of solutions, should play an important role in this field in at least three different ways, in which we take part:
 1 – Being an example of self-sustainability, disseminating how to improve, maintain and repair their facilities.
