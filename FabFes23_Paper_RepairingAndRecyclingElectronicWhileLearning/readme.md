@@ -25,9 +25,10 @@ The reflections collected here are the result of work within a public higher edu
 ### Findings
 
 We discovered that fablabs, as spaces for the design and development of solutions, should play an important role in this field in at least three different ways, in which we take part:
-1 – Being an example of self-sustainability, disseminating how to improve, maintain and repair their facilities.
-2 – Being a common storage and distribution point for components and materials, which are waiting to be reintroduced to the value chain.
-3 – Being a place of training on technological, formal, and informal self-sufficiency.
+
+1. Being an example of self-sustainability, disseminating how to improve, maintain and repair their facilities.
+2. Being a common storage and distribution point for components and materials, which are waiting to be reintroduced to the value chain.
+3. Being a place of training on technological, formal, and informal self-sufficiency.
 
 We will describe each of these three points in the paper's chapters, leaving collaboration with waste management companies for the last one. 
 
