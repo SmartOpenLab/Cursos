@@ -3,7 +3,7 @@
 
 Presentation of the paper presented in "FabFest 23 – Designing Relisient Futures" at Thimphu, Bhutan, July 2023, by Antonio Gordillo Guerrero (anto@unex.es).
 
-The full paper can be found published [here](https://zenodo.org/record/8171644).
+The full paper can be found [here](https://zenodo.org/record/8171644).
 
 ## Abstract
 
